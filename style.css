@@ -57,6 +57,7 @@ main p {
     width: 310px;
     height: 56px;
     padding-top: 2px;
+    background-position: center;
 }
 
 /* Links */
